@@ -1,0 +1,14 @@
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\obj\Debug\ConsoleProjectForTestingMapping.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\ConsoleProjectForTestingMapping.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\ConsoleProjectForTestingMapping.exe
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\ConsoleProjectForTestingMapping.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\DataContext.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\EntityFramework.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\Model.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\DataContext.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\Model.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\EntityFramework.xml
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\obj\Debug\ConsoleProjectForTestingMapping.exe
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\ConsoleProjectForTestingMapping\obj\Debug\ConsoleProjectForTestingMapping.pdb

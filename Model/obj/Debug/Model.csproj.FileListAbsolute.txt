@@ -1,0 +1,10 @@
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\Model.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\Model.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\obj\Debug\Model.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\obj\Debug\Model.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\Model.dll.config
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\EntityFramework.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\EntityFramework.xml
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\Model\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,14 @@
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\obj\Debug\InteractiveConsole.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\InteractiveConsole.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\InteractiveConsole.exe
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\InteractiveConsole.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\DataContext.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\EntityFramework.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\Model.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\DataContext.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\Model.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\EntityFramework.xml
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\obj\Debug\InteractiveConsole.exe
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\obj\Debug\InteractiveConsole.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF\Port_Using_EF\InteractiveConsole\bin\Debug\EntityFramework.SqlServer.xml
